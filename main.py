@@ -1,7 +1,7 @@
 import os
 import requests
 from twilio.rest import Client
-account_sid="ACd7195c151ccf21f2d7366b6a867e6f1f"
+account_sid="your account id"
 auth_token="c017e6165359c8c802de1c1a1639e04c"
 
 
